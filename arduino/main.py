@@ -1,5 +1,4 @@
 import cv2
-from cycler import K
 import controller as cnt
 from cvzone.HandTrackingModule import HandDetector
 
